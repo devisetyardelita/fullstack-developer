@@ -4,9 +4,9 @@
 **Focus:** System architecture, ERD, Use Case, Activity Diagram  
 
 ## Documentation
-- `Use-Case.pdf`[view](https://drive.google.com/file/d/1tJJtuSXcp3OzihKYl0ZXQEgejabq8fUT/view?usp=sharing)  
-- `ERD.pdf` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
-- `Activity-Diagram.pdf` [view](https://drive.google.com/drive/folders/16Il0-LCdUaRu7mtyEXbahHuiXLafgMDU?usp=sharing) 
+- `Use-Case.jpg`[view](https://drive.google.com/file/d/1tJJtuSXcp3OzihKYl0ZXQEgejabq8fUT/view?usp=sharing)  
+- `ERD.jpg` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
+- `Activity-Diagram.jpg` [view](https://drive.google.com/drive/folders/16Il0-LCdUaRu7mtyEXbahHuiXLafgMDU?usp=sharing) 
 - `UI User.jpg` [view](https://drive.google.com/file/d/1-iFrGdiigGZkcTOwaMsWTOe3VwE5N-eN/view?usp=sharing)  
 - `UI Admin.jpg` [view](https://drive.google.com/file/d/1rRMZGF9PL5SbWNiZlzfiEAGqHhceTVpp/view?usp=sharing)  
 
