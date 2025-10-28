@@ -1,6 +1,6 @@
 ## **Fullstack Developer**
 Projects where I implemented or contributed to the system development and technical documentation.  
-- **2025 Student Transfer Website** – Automated student transfer platform  
+- **2025 Student Transfer Website** – Automated student transfer platform  [view project](https://github.com/devisetyardelita/fullstack-developer/tree/main/sinovace-website-repository)
   *Role: Software Engineer*  
   Focus: System architecture, ERD, Use Case, Activity Diagram  
 
