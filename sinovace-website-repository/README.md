@@ -4,10 +4,11 @@
 **Focus:** System architecture, ERD, Use Case, Activity Diagram  
 
 ## Documentation
-- `Use-Case.pdf`[view](https://github.com/devisetyardelita/fullstack-developer/tree/main/sinovace-website-repository)  
-- `ERD.pdf` [view](https://github.com/devisetyardelita/fullstack-developer/tree/main/sinovace-website-repository)  
-- `Activity-Diagram.pdf` [view](https://github.com/devisetyardelita/fullstack-developer/tree/main/sinovace-website-repository) 
-- `UI Beranda.jpg` [view](https://drive.google.com/file/d/1n0_T0KN4nq8e2yX2n4n4j5BjQoIi-aQC/view?usp=sharing)  
+- `Use-Case.pdf`[view](https://drive.google.com/file/d/1tJJtuSXcp3OzihKYl0ZXQEgejabq8fUT/view?usp=sharing)  
+- `ERD.pdf` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
+- `Activity-Diagram.pdf` [view](https://drive.google.com/drive/folders/16Il0-LCdUaRu7mtyEXbahHuiXLafgMDU?usp=sharing) 
+- `UI User.jpg` [view](https://drive.google.com/file/d/1-iFrGdiigGZkcTOwaMsWTOe3VwE5N-eN/view?usp=sharing)  
+- `UI Admin.jpg` [view](https://drive.google.com/file/d/1rRMZGF9PL5SbWNiZlzfiEAGqHhceTVpp/view?usp=sharing)  
 
 ## Description
 Platform for automating student transfers, improving workflow and reducing manual paperwork.
