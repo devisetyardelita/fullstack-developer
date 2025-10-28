@@ -4,10 +4,11 @@
 **Focus:** System architecture, ERD, Use Case, Activity Diagram  
 
 ## Documentation
-- `Use-Case.pdf`[view](https://drive.google.com/file/d/1tJJtuSXcp3OzihKYl0ZXQEgejabq8fUT/view?usp=sharing)  
-- `ERD.pdf` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
-- `Activity-Diagram.pdf` [view](https://drive.google.com/drive/folders/16Il0-LCdUaRu7mtyEXbahHuiXLafgMDU?usp=sharing) 
-- `UI.jpg` [view](https://drive.google.com/file/d/1-iFrGdiigGZkcTOwaMsWTOe3VwE5N-eN/view?usp=sharing)  
+- `Use-Case.jpg`[view](https://drive.google.com/file/d/1pn6g9NYYq3rvexJLLFJGB_vB4vrH1K3x/view?usp=sharing)  
+- `ERDjpg` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
+- `Activity-Diagram.jpg` [view](https://drive.google.com/file/d/1XuwRUZMoeiIqxdWXJN2sunva0dNu30-r/view?usp=sharing) 
+- `UI.pdf` [view](https://drive.google.com/file/d/1dFPmDY6VN3befBXVO4_ijHap3kXvX-3S/view?usp=sharing)  
+- `Timeline.jpg` [view](https://drive.google.com/file/d/1zSvIRof-z3RSq8UYM5Q62tFT10LSjK_A/view?usp=sharing) 
 
 ## Description
 Platform for public service system for education department.
