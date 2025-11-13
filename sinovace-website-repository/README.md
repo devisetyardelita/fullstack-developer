@@ -8,7 +8,8 @@
 - `ERD.jpg` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
 - `Activity-Diagram.jpg` [view](https://drive.google.com/file/d/1XuwRUZMoeiIqxdWXJN2sunva0dNu30-r/view?usp=sharing) 
 - `UI.pdf` [view](https://drive.google.com/file/d/1dFPmDY6VN3befBXVO4_ijHap3kXvX-3S/view?usp=sharing)  
-- `Timeline.jpg` [view](https://drive.google.com/file/d/1zSvIRof-z3RSq8UYM5Q62tFT10LSjK_A/view?usp=sharing) 
+- `Timeline.jpg` [view](https://drive.google.com/file/d/1zSvIRof-z3RSq8UYM5Q62tFT10LSjK_A/view?usp=sharing)
+- `Report.pdf` [view](https://drive.google.com/file/d/1020b5dvoUw0pBes0InBHq_R7w81CdwnO/view?usp=sharing)
 
 ## Description
 Platform for public service system for education department.
